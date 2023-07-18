@@ -1,0 +1,337 @@
+Age,Gender,Education_Level,Job_title,Years _of _Experience,Salary
+29,Male,Bachelor's,Junior Software Developer,0,20000
+25,Male,Bachelor's,Junior Software Developer,0.5,30000
+23,Female,Bachelor's,Junior Software Developer,0.5,35000
+25,Female,Bachelor's,Junior Software Developer,0,35000
+25,Male,Bachelor's,Junior Software Developer,1,35000
+26,Male,Bachelor's,Junior Software Developer,1,35000
+26,Male,Bachelor's,Junior Software Developer,1,35000
+26,Male,Bachelor's,Junior Software Developer,1,35000
+27,Male,Bachelor's,Junior Software Developer,1,35000
+27,Male,Bachelor's,Junior Software Developer,1,35000
+28,Female,Bachelor's,Junior Software Developer,1,35000
+28,Male,Bachelor's,Junior Software Developer,1,35000
+29,Male,Bachelor's,Junior Software Developer,1,35000
+29,Female,Bachelor's,Junior Software Developer,1,35000
+29,Female,Bachelor's,Junior Software Developer,1,35000
+24,Male,Bachelor's,Junior Software Developer,1.5,40000
+25,Female,Master's,Junior Software Developer,1.5,40000
+26,Female,Bachelor's,Junior Software Developer,1.5,40000
+26,Male,Bachelor's,Junior Accountant,2,40000
+27,Male,Bachelor's,Junior Accountant,2,40000
+27,Male,Bachelor's,Junior Accountant,2,40000
+28,Female,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+28,Male,Bachelor's,Junior Accountant,2,40000
+29,Male,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Male,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,2,40000
+29,Female,Bachelor's,Junior Accountant,3,40000
+30,Female,Bachelor's,Junior Accountant,2,40000
+30,Female,Bachelor's,Junior Accountant,2,40000
+30,Male,Bachelor's,Junior Accountant,2,40000
+30,Female,Bachelor's,Junior Accountant,2,40000
+30,Female,Bachelor's,Junior Accountant,2,40000
+26,Female,Bachelor's,Junior Accountant,2.5,45000
+26,Female,Master's,Junior Accountant,2.5,45000
+27,Female,Master's,Junior Accountant,2.5,45000
+27,Male,Bachelor's,Junior Accountant,2.5,45000
+27,Male,Bachelor's,Junior Account Manager,3,45000
+28,Female,Bachelor's,Junior Account Manager,3,45000
+29,Female,Bachelor's,Junior Account Manager,3,45000
+29,Male,Bachelor's,Junior Account Manager,3,45000
+29,Female,Bachelor's,Junior Account Manager,3,45000
+30,Female,Bachelor's,Junior Account Manager,3,45000
+30,Female,Bachelor's,Junior Account Manager,3,45000
+30,Male,Bachelor's,Junior Account Manager,3,45000
+30,Male,Bachelor's,Junior Account Manager,3,45000
+31,Female,Bachelor's,Junior Account Manager,3,45000
+31,Female,Bachelor's,Junior Account Manager,3,45000
+31,Female,Bachelor's,Junior Account Manager,3,45000
+32,Male,Bachelor's,Junior Account Manager,3,45000
+36,Female,Bachelor's,Junior Account Manager,3,45000
+27,Female,Master's,Junior Account Manager,4,50000
+29,Female,Bachelor's,Junior Account Manager,4,50000
+29,Male,Bachelor's,Junior Account Manager,4,50000
+30,Male,Bachelor's,Junior Account Manager,4,50000
+30,Female,Bachelor's,Junior Account Manager,4,50000
+30,Female,Bachelor's,Junior Account Manager,4,50000
+31,Male,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Male,Bachelor's,Junior Account Manager,4,50000
+31,Male,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Female,Bachelor's,Junior Account Manager,4,50000
+31,Male,Bachelor's,Junior Account Manager,4,50000
+31,Male,Bachelor's,Junior Account Manager,4,50000
+32,Female,Bachelor's,Junior Account Manager,4,50000
+32,Female,Bachelor's,Junior Account Manager,4,50000
+33,Male,Bachelor's,Junior Account Manager,4,50000
+33,Female,Bachelor's,Junior Account Manager,4,50000
+33,Male,Bachelor's,Junior Account Manager,4,50000
+29,Male,Bachelor's,Junior Account Manager,5,55000
+30,Female,Bachelor's,Junior Account Manager,5,55000
+30,Female,Bachelor's,Junior Account Manager,5,55000
+31,Male,Bachelor's,Junior Account Manager,5,55000
+31,Male,Bachelor's,Junior Account Manager,5,55000
+31,Female,Bachelor's,Junior Account Manager,5,55000
+31,Female,Bachelor's,Junior Account Manager,5,55000
+32,Male,Bachelor's,Junior Account Manager,5,55000
+32,Female,Bachelor's,Junior Account Manager,5,55000
+39,Female,Bachelor's,Junior Account Manager,5,55000
+30,Male,Bachelor's,Network Engineer,1,30000
+31,Male,Bachelor's,Network Engineer,2,35000
+32,Female,Bachelor's,Network Engineer,1,30000
+33,Male,Bachelor's,Network Engineer,3,40000
+33,Male,Bachelor's,Network Engineer,4,45000
+33,Male,Bachelor's,Network Engineer,5,50000
+33,Male,Bachelor's,Network Engineer,6,60000
+33,Female,Bachelor's,Network Engineer,2,35000
+33,Female,Bachelor's,Network Engineer,3,40000
+33,Female,Bachelor's,Network Engineer,4,45000
+35,Female,Bachelor's,Network Engineer,5,50000
+36,Female,Bachelor's,Network Engineer,6,60000
+40,Female,Bachelor's,HR Manager,3,80000
+40,Female,Bachelor's,HR Manager,3,80000
+41,Female,Master's,HR Manager,3,80000
+33,Male,Master's,HR Manager,4,85000
+35,Male,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+35,Male,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+35,Female,Bachelor's,HR Manager,4,85000
+36,Female,Bachelor's,HR Manager,4,85000
+32,Male,Bachelor's,HR Manager,5,90000
+32,Male,Master's,HR Manager,5,90000
+33,Male,Master's,HR Manager,5,90000
+33,Female,Master's,HR Manager,5,90000
+34,Male,Bachelor's,HR Manager,5,90000
+34,Male,Bachelor's,HR Manager,5,90000
+34,Male,Bachelor's,HR Manager,5,90000
+34,Male,Master's,HR Manager,5,90000
+34,Male,Bachelor's,HR Manager,5,90000
+35,Male,Bachelor's,HR Manager,5,90000
+35,Female,Bachelor's,HR Manager,5,90000
+35,Female,Bachelor's,HR Manager,5,90000
+36,Male,Bachelor's,HR Manager,5,90000
+37,Male,Bachelor's,HR Manager,5,90000
+38,Female,Master's,HR Manager,5,90000
+38,Female,Master's,HR Manager,5,90000
+39,Female,Bachelor's,HR Manager,5,90000
+41,Female,Bachelor's,HR Manager,5,90000
+31,Male,Master's,HR Manager,6,95000
+33,Female,Master's,HR Manager,6,95000
+34,Male,Bachelor's,HR Manager,6,95000
+34,Female,Master's,HR Manager,6,95000
+35,Male,Master's,HR Manager,6,95000
+35,Male,Bachelor's,HR Manager,6,95000
+35,Male,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+36,Female,Bachelor's,HR Manager,6,95000
+36,Female,Bachelor's,HR Manager,6,95000
+36,Male,Bachelor's,HR Manager,6,95000
+37,Male,Bachelor's,HR Manager,6,95000
+37,Female,Master's,HR Manager,6,95000
+37,Female,Master's,HR Manager,6,95000
+37,Male,Bachelor's,HR Manager,6,95000
+39,Female,Bachelor's,HR Manager,6,95000
+41,Female,Bachelor's,HR Manager,6,95000
+41,Female,Bachelor's,HR Manager,6,95000
+32,Male,Master's,HR Manager,7,100000
+33,Male,Bachelor's,HR Manager,7,100000
+34,Female,Master's,HR Manager,7,100000
+34,Female,Master's,HR Manager,7,100000
+34,Male,Bachelor's,HR Manager,7,100000
+35,Male,Bachelor's,Senior Financial Manager,2,100000
+35,Male,Bachelor's,Senior Financial Manager,2,100000
+36,Male,Bachelor's,Senior Financial Manager,2,100000
+37,Female,Bachelor's,Senior Financial Manager,2,100000
+37,Male,Bachelor's,Senior Financial Manager,2,100000
+40,Female,Master's,Senior Financial Manager,2,100000
+40,Female,Bachelor's,Senior Financial Manager,2,100000
+41,Female,Master's,Senior Financial Manager,2,100000
+42,Female,Bachelor's,Senior Financial Manager,2,100000
+34,Male,Master's,Senior Financial Manager,3,105000
+34,Male,Master's,Senior Financial Manager,3,105000
+35,Male,Master's,Senior Financial Manager,3,105000
+37,Male,Master's,Senior Financial Manager,3,105000
+40,Female,Bachelor's,Senior Financial Manager,3,105000
+43,Male,Bachelor's,Senior Financial Manager,3,105000
+35,Male,Master's,Senior Financial Manager,4,110000
+36,Male,Bachelor's,Senior Financial Manager,4,110000
+37,Female,Master's,Senior Financial Manager,4,110000
+38,Male,Master's,Senior Financial Manager,4,110000
+38,Male,Master's,Senior Financial Manager,4,110000
+38,Male,PhD,Senior Financial Manager,4,110000
+38,Female,Bachelor's,Senior Financial Manager,4,110000
+38,Female,Bachelor's,Senior Financial Manager,4,110000
+38,Female,Bachelor's,Senior Financial Manager,4,110000
+39,Female,Bachelor's,Senior Financial Manager,4,110000
+40,Female,Bachelor's,Senior Financial Manager,4,110000
+41,Female,Master's,Senior Financial Manager,4,110000
+42,Male,Bachelor's,Senior Financial Manager,4,110000
+42,Female,Master's,Senior Financial Manager,4,110000
+44,Male,Bachelor's,Senior Financial Manager,4,110000
+45,Male,Bachelor's,Senior Financial Manager,4,110000
+45,Male,Bachelor's,Senior Financial Manager,4,110000
+33,Male,Master's,Senior Financial Manager,5,115000
+39,Male,PhD,Senior Financial Manager,5,115000
+42,Male,Master's,Senior Financial Manager,5,115000
+35,Male,Master's,Senior Financial Manager,6,120000
+36,Male,PhD,Senior Financial Manager,6,120000
+36,Male,Master's,Senior Financial Manager,6,120000
+37,Male,Master's,Senior Financial Manager,6,120000
+37,Female,Bachelor's,Senior Financial Manager,6,120000
+37,Male,Bachelor's,Senior Financial Manager,6,120000
+38,Female,Bachelor's,Senior Financial Manager,6,120000
+38,Female,Bachelor's,Senior Financial Manager,6,120000
+38,Female,Bachelor's,Senior Financial Manager,6,120000
+38,Male,PhD,Senior Scientist,1,120000
+39,Female,Bachelor's,Senior Scientist,4,120000
+39,Male,Bachelor's,Senior Scientist,4,120000
+40,Female,Master's,Senior Scientist,3,120000
+41,Female,Master's,Senior Scientist,3,120000
+42,Female,Master's,Senior Scientist,3,120000
+42,Female,Bachelor's,Senior Scientist,4,120000
+42,Female,Master's,Senior Scientist,3,120000
+43,Female,Master's,Senior Scientist,3,120000
+43,Male,Bachelor's,Senior Scientist,4,120000
+46,Male,Bachelor's,Senior Scientist,4,120000
+44,Male,Bachelor's,Senior Scientist,5,125000
+39,Female,Bachelor's,Senior Scientist,6,130000
+40,Female,Bachelor's,Senior Scientist,6,130000
+40,Male,Bachelor's,Senior Scientist,6,130000
+40,Male,Bachelor's,Senior Scientist,6,130000
+40,Female,Master's,Senior Scientist,4,130000
+41,Male,Master's,Senior Scientist,4,130000
+43,Male,Bachelor's,Senior Scientist,6,130000
+44,Male,Bachelor's,Senior Scientist,6,130000
+44,Male,Bachelor's,Senior Scientist,6,130000
+44,Male,Bachelor's,Senior Scientist,6,130000
+44,Male,Bachelor's,Senior Scientist,6,130000
+44,Male,Bachelor's,Senior Scientist,6,130000
+50,Female,Bachelor's,Senior Scientist,6,130000
+51,Female,Bachelor's,Senior Scientist,6,130000
+46,Male,Master's,Senior Scientist,5,135000
+47,Male,Bachelor's,Senior Scientist,7,135000
+41,Male,Master's,Senior Scientist,6,140000
+42,Female,Master's,Senior Scientist,6,140000
+42,Female,PhD,Senior Scientist,2,140000
+42,Female,PhD,Senior Scientist,2,140000
+43,Female,PhD,Senior Scientist,2,140000
+43,Male,Bachelor's,Senior Project Manager,3,140000
+43,Male,PhD,Senior Project Manager,1,140000
+43,Female,PhD,Senior Project Manager,1,140000
+44,Female,Master's,Senior Project Manager,2,140000
+44,Female,PhD,Senior Project Manager,1,140000
+45,Female,Master's,Senior Project Manager,2,140000
+45,Male,Master's,Senior Project Manager,2,140000
+46,Male,Master's,Senior Project Manager,2,140000
+48,Female,Bachelor's,Senior Project Manager,1,140000
+44,Female,PhD,Senior Project Manager,2,145000
+41,Male,Bachelor's,Senior Project Manager,4,150000
+41,Male,Bachelor's,Senior Project Manager,4,150000
+42,Female,PhD,Senior Project Manager,3,150000
+43,Female,PhD,Senior Project Manager,3,150000
+44,Female,PhD,Senior Project Manager,3,150000
+44,Female,PhD,Senior Project Manager,3,150000
+44,Female,PhD,Senior Project Manager,3,150000
+44,Female,PhD,Senior Project Manager,3,150000
+44,Female,PhD,Senior Project Manager,3,150000
+45,Male,PhD,Senior Project Manager,3,150000
+45,Female,PhD,Senior Project Manager,3,150000
+45,Female,PhD,Senior Project Manager,3,150000
+45,Male,PhD,Senior Project Manager,3,150000
+45,Male,PhD,Senior Project Manager,3,150000
+46,Male,PhD,Senior Project Manager,3,150000
+46,Male,PhD,Senior Project Manager,3,150000
+49,Female,Master's,Senior Project Manager,4,150000
+49,Female,Master's,Senior Project Manager,4,150000
+45,Male,PhD,Senior Project Manager,4,155000
+41,Female,PhD,Senior Project Manager,4,160000
+44,Male,PhD,Senior Project Manager,4,160000
+44,Female,PhD,Senior Project Manager,4,160000
+44,Female,PhD,Senior Project Manager,4,160000
+44,Female,PhD,Senior Project Manager,4,160000
+44,Female,PhD,Senior Project Manager,4,160000
+45,Female,Master's,Senior Project Manager,5,160000
+45,Female,PhD,Senior Project Manager,5,160000
+45,Female,PhD,Senior Project Manager,5,160000
+46,Male,PhD,Senior Software Developer,1,160000
+46,Male,PhD,Senior Software Developer,1,160000
+46,Male,PhD,Senior Software Developer,1,160000
+47,Male,PhD,Senior Software Developer,1,160000
+47,Male,PhD,Senior Software Developer,1,160000
+49,Male,Bachelor's,Senior Software Developer,3,160000
+50,Female,Master's,Senior Software Developer,2,160000
+50,Female,Bachelor's,Senior Software Developer,3,160000
+43,Male,Master's,Senior Software Developer,3,170000
+43,Male,Master's,Senior Software Developer,3,170000
+43,Male,Master's,Senior Software Developer,3,170000
+46,Male,PhD,Senior Software Developer,2,170000
+46,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+47,Male,Master's,Senior Software Developer,3,170000
+48,Male,Master's,Senior Software Developer,3,170000
+48,Male,PhD,Senior Software Developer,2,170000
+51,Female,Master's,Senior Software Developer,3,170000
+52,Female,Master's,Senior Software Developer,3,170000
+45,Male,Master's,Senior Software Developer,4,175000
+48,Male,Master's,Senior Software Developer,4,175000
+45,Female,Master's,Senior Software Developer,4,180000
+45,Male,Master's,Senior Software Developer,4,180000
+47,Female,Master's,Senior Software Developer,4,180000
+47,Male,PhD,Senior Software Developer,3,180000
+47,Male,PhD,Senior Software Developer,3,180000
+48,Female,Master's,Senior Software Developer,4,180000
+48,Female,Master's,Senior Software Developer,4,180000
+48,Male,Master's,Senior Software Developer,4,180000
+48,Male,Master's,Senior Software Developer,4,180000
+49,Female,Master's,Senior Software Developer,4,180000
+49,Female,Master's,Senior Software Developer,4,180000
+49,Female,Master's,Senior Software Developer,4,180000
+49,Male,PhD,Senior Software Developer,3,180000
+49,Female,Master's,Director of Marketing,9,180000
+50,Female,Master's,Director of Marketing,9,180000
+50,Female,PhD,Director of Marketing,3,180000
+50,Female,PhD,Director of Marketing,3,180000
+50,Female,PhD,Director of Marketing,3,180000
+51,Male,Bachelor's,Director of Marketing,12,180000
+53,Male,Master's,Director of Marketing,9,180000
+51,Female,PhD,Director of Marketing,4,185000
+45,Male,PhD,Director of Marketing,5,190000
+47,Male,Master's,Director of Marketing,9,190000
+48,Male,Master's,Director of Marketing,9,190000
+51,Female,Master's,Director of Marketing,9,190000
+47,Male,Master's,Director of Marketing,10,200000
+52,Male,Master's,Director of Marketing,10,200000
+44,Male,PhD,Director of Marketing,6,220000
+50,Male,Bachelor's,CEO,25,250000
